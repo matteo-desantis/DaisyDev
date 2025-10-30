@@ -8,3 +8,6 @@
 [submodule "libDaisy"]
 	path = libDaisy
 	url = https://github.com/electro-smith/libDaisy
+[submodule "/Users/matteodesantis/EurorackProgramming/Git/DaisyDev/dspLib"]
+	path = /Users/matteodesantis/EurorackProgramming/Git/DaisyDev/dspLib
+	url = https://github.com/matteo-desantis/dspLib.git
