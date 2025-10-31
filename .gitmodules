@@ -11,3 +11,6 @@
 [submodule "/Users/matteodesantis/EurorackProgramming/Git/DaisyDev/dspLib"]
 	path = /Users/matteodesantis/EurorackProgramming/Git/DaisyDev/dspLib
 	url = https://github.com/matteo-desantis/dspLib.git
+[submodule "OwnProjects"]
+	path = OwnProjects
+	url = https://github.com/matteo-desantis/daisyOwnProjects
