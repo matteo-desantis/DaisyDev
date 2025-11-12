@@ -131,3 +131,7 @@ MyProjects/
 .cortex-debug.registers.state.json
 .cortex-debug.peripherals.state.json
 
+
+# Ignore VS Code workspace settings
+.vscode/
+.vscode/*
